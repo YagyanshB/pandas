@@ -4,5 +4,8 @@ This is a six-part Lecture Series from the acclaimed and resourceful YouTube Cha
 
 To use the repository, please follow the below set of instructions:
 
-1. You can use your own **IDE** or leverage **Google Colab**, which I have done in this case. I prefer **Colab** owing to its accessibility and user-friendly nature. 
-2. Please <iframe width="560" height="315" src="https://www.youtube.com/embed/EsDFiZPljYo?si=YoLNw1YsolHXENWJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+1. You can use your own **IDE** or leverage **Google Colab**, which I have done in this case. I prefer **Colab** owing to its accessibility and user-friendly nature
+2. Please use the lecture series by clicking on the attached link - https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=1 which will take you to Part 1
+3. All **Assignment Solutions** have been uploaded as well in the repository; however, I would strongly recommend not looking at them until you have created your independent solutions
+
+**Happy Coding** and if there are aspects of my code or documentation that could be improved, please don't hesitate to comment or reach out to me. 
