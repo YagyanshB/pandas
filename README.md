@@ -1,11 +1,15 @@
-# Zero To Pandas
+# Pandas
 
-This is a six-part Lecture Series from the acclaimed and resourceful YouTube Channel FreeCodeCamp Org. The series aims to solidify the foundations of data analysis using Python, specifically focusing on the Pandas Library. 
+Pandas is one of the most potent and transformative libraries in Python. I will use this repository to carry out exploratory and investigative data analysis. I have undertaken guided **YouTube** videos to build the code, for which the links are attached below.
 
-To use the repository, please follow the below set of instructions:
 
-1. You can use your own **IDE** or leverage **Google Colab**, which I have done in this case. I prefer **Colab** owing to its accessibility and user-friendly nature
-2. Please use the lecture series by clicking on the attached link - https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=1 which will take you to Part 1
-3. All **Assignment Solutions** have been uploaded as well in the repository; however, I would strongly recommend not looking at them until you have created your independent solutions
+1. **Zero To Pandas**
 
-**Happy Coding** and if there are aspects of my code or documentation that could be improved, please don't hesitate to comment or reach out to me. 
+     Link - https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=1
+
+
+3. **Economic Analysis**
+
+   Link - https://www.youtube.com/watch?v=R67XuYc9NQ4. This project mainly focuses on data scraping using APIs, cleaning, and exploration. It is taught by a renowned Kaggle grandmaster **Rob Mulla**.
+
+**Happy Coding** if there are aspects of my code or documentation that could be improved, please don't hesitate to comment or reach out to me. 
