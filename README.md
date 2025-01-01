@@ -8,8 +8,11 @@ Pandas is one of the most potent and transformative libraries in Python. I will 
      Link - https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=1
 
 
-3. **Economic Analysis**
+2. **Economic Analysis**
 
-   Link - https://www.youtube.com/watch?v=R67XuYc9NQ4. This project mainly focuses on data scraping using APIs, cleaning, and exploration. It is taught by a renowned Kaggle grandmaster **Rob Mulla**.
+   Link - https://www.youtube.com/watch?v=R67XuYc9NQ4. This project mainly focuses on data scraping using APIs, cleaning, and exploration. 
+3. **Audio Processing**
 
-**Happy Coding** if there are aspects of my code or documentation that could be improved, please don't hesitate to comment or reach out to me. 
+   Link - https://www.youtube.com/watch?v=ZqpSb5p1xQo&list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t&index=2. This project mainly focuses on the processing of Audio files gives an introduction to the _lebrosa library_ and provides a foundational understanding of **Spectograms**. 
+
+**Happy Coding** If aspects of my code or documentation could be improved, please don't hesitate to comment or reach out to me. 
