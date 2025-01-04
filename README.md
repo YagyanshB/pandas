@@ -7,7 +7,6 @@ Pandas is one of the most potent and transformative libraries in Python. I will 
 
      Link - https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&index=1
 
-
 2. **Economic Analysis**
 
    Link - https://www.youtube.com/watch?v=R67XuYc9NQ4. This project mainly focuses on data scraping using APIs, cleaning, and exploration. 
@@ -17,7 +16,7 @@ Pandas is one of the most potent and transformative libraries in Python. I will 
 
 4. **Ultra Marathon Analysis**
 
-   This Data Analytics portfolio project showcases your Python prowess and impresses recruiters with your Data Cleaning & Insight Driven visualisations. I carried this project out with the help of a **YouTube Channel**, and the link is attached below.
+   This Data Analytics portfolio project showcases your Python prowess and impresses recruiters with your Data Cleaning and insight-driven visualisations. I carried out this project with the help of a YouTube channel, the link to which is attached below.
 
    Link - https://www.youtube.com/watch?v=4sZFkPw87ng
 
